@@ -1,6 +1,6 @@
 # Learn-Practice-Programming
 ## Learn And practice programming languages: javascript, c, c++, c#, python, java
-## Start day: 15/09/2022
+## Start day: Thursday, 15/09/2022
 
 This repository to save the source code of programming exercises in languages: C, C++, Python, Javascript, HTML/CSS/Javascript... from different sources.
 ### Sources Include
