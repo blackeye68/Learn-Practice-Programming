@@ -14,9 +14,10 @@ This repository to save the source code of programming exercises in languages: C
 - C#
 - Python
 ### Storage Structure:
-1. Source of exercise.
-2. Type of exercise.
-3. Programming languages.
+1. Type programming: front-end or back-end:
+2. Source of exercise.
+3. Type of exercise.
+4. Programming languages.
 ### Online tools to use:
 - Code Editor Online: https://www.onlinegdb.com/
 - Markdown Editor Online: https://stackedit.io/app#
