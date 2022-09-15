@@ -16,3 +16,4 @@ This repository to save the source code of programming exercises in languages: C
 1. Source of exercise.
 2. Type of exercise.
 3. Programming languages.
+### Note: documentation, thinking method, how to do, logic to do... will comment in the code or write to the .md file with the same name in the same directory.
